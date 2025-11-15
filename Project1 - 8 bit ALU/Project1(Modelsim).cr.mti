@@ -1,0 +1,11 @@
+{C:/Users/afeef/OneDrive/Documents/ECE 465 (Summer 2021)/Projects/Project1/Project1.v} {1 {vlog -work work -stats=none {C:/Users/afeef/OneDrive/Documents/ECE 465 (Summer 2021)/Projects/Project1/Project1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Project1
+
+Top level modules:
+	Project1
+
+} {} {}} {C:/Users/afeef/OneDrive/Documents/ECE 465 (Summer 2021)/Projects/Project1/Project1_TB.v} {1 {vlog -work work -stats=none {C:/Users/afeef/OneDrive/Documents/ECE 465 (Summer 2021)/Projects/Project1/Project1_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+
+} {} {}}
